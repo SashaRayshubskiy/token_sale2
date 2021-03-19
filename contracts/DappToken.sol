@@ -1,9 +1,9 @@
 pragma solidity >=0.4.22 <0.9.0;
 
 contract DappToken {
-	string public name = "DApp Token";
-	string public symbol = "DAPP";
-	string public standard = "DApp Token v1.0";
+	string public name = "BaCoin";
+	string public symbol = "BAC";
+	string public standard = "BaCoin Token v1.0";
 	uint256 public totalSupply;
 
 	event Transfer(
